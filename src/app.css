@@ -1,0 +1,220 @@
+.bigbutum::before {
+  content: "";
+  width: 1px;
+  height: 40px;
+  background: #ffffff87;
+  rotate: 0deg;
+  margin-left: 30px;
+}
+.headersite {
+  height: 48rem;
+}
+
+.divhunter {
+  top: 35%;
+  right: 60%;
+  width: 21em;
+}
+
+.text1 {
+  font-size: 3rem;
+  font-weight: 700;
+}
+.text2 {
+  font-size: 2rem;
+  font-weight: 400;
+}
+.text3 {
+  width: 8rem;
+  height: 3px;
+}
+.text4 {
+  font-size: 24px;
+  font-weight: lighter;
+}
+.divbander {
+  height: 47rem;
+  height: 27rem;
+}
+
+.navbarsec {
+  right: 5%;
+}
+
+.ulsection {
+  width: 208px;
+  height: 272px;
+  border-top: 3px solid #fab873;
+}
+#ECE0D1 #DBC1AC #967259 #634832 .ulsection {
+  top: 17rem;
+}
+
+/* استایل برای منوی کشویی */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: flex;
+}
+
+.dropdown-content li {
+  text-align: right; /* راست‌چین کردن متن */
+}
+
+.arrow_pointer1 {
+  right: 45rem;
+  top: 41rem;
+  position: absolute;
+  color: black;
+
+  border: 1px solid rgba(255, 254, 254, 0.341);
+}
+.arrow_pointer2 {
+  border: 1px solid rgba(255, 254, 254, 0.535);
+}
+.arrow_pointer3 {
+  border: 1px solid rgba(255, 254, 254, 0.815);
+}
+.proudact {
+    gap: 19px;
+
+}
+.logoholder {
+  background-image: url(../mateerial/CoffeeShop-Files/body-bg.png);
+  width: 1500px;
+  height: 818px;
+  position: absolute;
+  opacity: 60%;
+  z-index: -1;
+}
+.subarashi{
+    padding-right:20px ;
+}
+
+
+
+
+.photobom_top_image{
+    background: rgb(0,0,0);
+    background: linear-gradient(278deg, rgba(0,0,0,1) 4%, rgba(252,252,252,0) 100%);
+}
+
+.bannerlogo{
+
+  background: linear-gradient(90deg, #10B981 0%, #059669 100%);
+}
+
+/*
+background: linear-gradient(270deg, #FDBA74 0%, #FED7AA 100%);
+
+
+دریافت جایزه
+*/
+
+.oooooooo{
+  background: linear-gradient(270deg, #FDBA74 0%, #FED7AA 100%);
+
+
+}
+.pppppp{
+  color: #10B981  ;
+}
+
+.letterforfooter p {
+display: inline;
+
+
+}
+
+
+
+.letterforfooter{
+  width: 50%1;
+}
+
+.letterforfooter li::before {
+
+  content: ""; /* یا هر کاراکتر دیگری */
+  height: 5px; /* این خاصیت تاثیری ندارد */
+  width: 12px; /* این خاصیت تاثیری ندارد */
+  
+  display: inline-block; /* برای نمایش درست */
+  margin-right: 8px; /* فاصله بین نماد و متن */
+  background: #ffffff;
+  border-radius: 30px ;
+  margin-left:1rem ;
+}
+
+
+
+gold:hover {
+color: black;
+
+
+}
+.gold {
+  color: #fab873;
+
+}
+.goldth:hover {
+  color: #fab873;
+}
+.goldbh:hover {
+  background: linear-gradient(270deg, #FDBA74 0%, #FED7AA 100%);
+}
+
+.goldbh{
+border: 2px solid  #fab873;
+
+transition: background-color 1s;
+}
+
+.nnn p   {
+
+  transition: color 200ms;
+
+  
+}
+.nnn li{
+
+  transition: color 200ms;
+
+  
+}
+
+.nnn p:hover   {
+  color: #fab873;
+
+
+}
+
+.nnn svg{
+
+  transition: color 200ms;
+
+  
+}
+
+.nnn svg:hover   {
+  color: #fab873;
+
+
+}
+
+.nnn  li:hover  {
+  color: #fab873;
+
+
+}

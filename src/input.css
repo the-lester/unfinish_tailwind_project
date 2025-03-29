@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+@layer base
+{
+
+@font-face {
+    font-family: dana_DemiBold_woff2;
+    src:local("dana-normal"), url(./../mateerial/fonts/Dana/woff2/DanaFaNum-DemiBold.woff2);
+}
+
+
+@font-face {
+    font-family: dana_Medium_woff2;
+    src: local("dana-medium"), url(../mateerial/fonts/Dana/woff2/DanaFaNum-Medium.woff2);
+}
+
+@font-face {
+    font-family: dana_Regular_woff2;
+    src:local("dana-regular"), url(../mateerial/fonts/Dana/woff2/DanaFaNum-Regular.woff2);
+}
+
+@font-face {
+    font-family: Morabba_Bold_woff2 ;
+    src:local("Morabba-bold"), url(../mateerial/fonts/Morabba/woff2/Morabba-Bold.woff2);
+}
+
+@font-face {
+    font-family: Morabba_Light_woff2 ;
+    src:local("Morabba-light"), url(../mateerial/fonts/Morabba/woff2/Morabba-Light.woff2);
+}
+
+@font-face {
+    font-family:Morabba_Medium_woff2;
+    src:local("Morabba-medium"), url(../mateerial/fonts/Morabba/woff2/Morabba-Medium.woff2);
+}
+
+}
